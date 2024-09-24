@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-sender = "manuchinth1212@gmail.com"
+sender = ""
 reciever = "agbdtescorurke@dropmail.me"
 subject = "Test mail using python"
 contents = '''

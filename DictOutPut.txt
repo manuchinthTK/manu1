@@ -1,0 +1,2 @@
+name,age,city
+name,22,kannur
